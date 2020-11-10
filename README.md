@@ -106,6 +106,8 @@ For this assignment I made a copy of the base by right clicking the part studio 
 
 ### Image
 
+<img src="https://github.com/llemarr42/Basic_Onshape_CAD/blob/main/wheel.png?raw=true" width="400">
+
 ### Reflection
 
 ---
