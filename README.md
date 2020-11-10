@@ -65,6 +65,9 @@ For this assignment I made a copy of the base by right clicking the part studio 
 
 ### Evidence
 
+[The fork in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
+
+
 ### Image
 
 <img src="https://github.com/llemarr42/Basic_Onshape_CAD/blob/main/Fork.png?raw=true" width="400">
@@ -80,7 +83,12 @@ For this assignment I made a copy of the base by right clicking the part studio 
 
 ### Evidence
 
+[The tire in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
+
+
 ### Image
+
+<img src="https://github.com/llemarr42/Basic_Onshape_CAD/blob/main/tires.png?raw=true" width="400">
 
 ### Reflection
 
@@ -92,6 +100,9 @@ For this assignment I made a copy of the base by right clicking the part studio 
 ### Description
 
 ### Evidence
+
+[The wheel in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
+
 
 ### Image
 
@@ -105,6 +116,9 @@ For this assignment I made a copy of the base by right clicking the part studio 
 ### Description
 
 ### Evidence
+
+[The AxleCollarBearings in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
+
 
 ### Image
 
