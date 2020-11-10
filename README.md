@@ -43,12 +43,18 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+The second assignment was to make a mount that wa 120 mm x 120 mm and had 5 holes that lined up with the bases holes.
+
 ### Evidence
+
+[The mount in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
 
 ### Image
 <img src="https://github.com/llemarr42/Basic_Onshape_CAD/blob/main/mount.png?raw=true" alt="The Base" width="400">
 
 ### Reflection
+
+For this assignment I made a copy of the base by right clicking the part studio then hitting duplicate, after i did that i changed the measurments including the linear equation.
 
 ---
 
