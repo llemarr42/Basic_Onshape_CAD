@@ -43,7 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
-The second assignment was to make a mount that wa 120 mm x 120 mm and had 5 holes that lined up with the bases holes.
+The second assignment was to make a mount that was 120 mm x 120 mm and had 5 holes that lined up with the bases holes including the big hole.
 
 ### Evidence
 
@@ -63,6 +63,8 @@ For this assignment I made a copy of the base by right clicking the part studio 
 
 ### Description
 
+I made the Fork by extruding two prongs and a third extrusion two make a hollow cylinder to secure it to the base and mount.
+
 ### Evidence
 
 [The fork in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
@@ -74,12 +76,16 @@ For this assignment I made a copy of the base by right clicking the part studio 
 
 ### Reflection
 
+I had to learn how to use fillets(shift + f) in onshape, as well as, the chamfer tool.
+
 ---
 
 
 ## Tire
 
 ### Description
+
+I made the Tire by using a revolve extrusions.
 
 ### Evidence
 
@@ -92,12 +98,16 @@ For this assignment I made a copy of the base by right clicking the part studio 
 
 ### Reflection
 
+There wasn't much that I had trouble with, the hardest thing to do for me was to get the sketch to be defined, you have to define the angles and make the two horizantal lines are parallel.
+
 ---
 
 
 ## Wheel
 
 ### Description
+
+I made the wheel with a revolve and circular pattern then I filleted it.
 
 ### Evidence
 
@@ -110,12 +120,16 @@ For this assignment I made a copy of the base by right clicking the part studio 
 
 ### Reflection
 
+This was my first time using the circular pattern, so I was confused when it didn't do anything. I found out that the problem was that it needed to be changed into a feature pattern rather than the part pattern.
+
 ---
 
 
 ## AxleCollarBearings
 
 ### Description
+
+I made an axle, collar, and two bearings using simple sketches and extrusions.
 
 ### Evidence
 
@@ -127,5 +141,7 @@ For this assignment I made a copy of the base by right clicking the part studio 
 <img src="https://github.com/llemarr42/Basic_Onshape_CAD/blob/main/AxleCollarBearings.png?raw=true" width="400">
 
 ### Reflection
+
+When making this I didn't use a syrmetrical extrusion, which came back to bite me when I had to mirror the (remove)extrusion. all theat has to be done to avoid this is to click blind then change it to syrmetric 
 
 ---
