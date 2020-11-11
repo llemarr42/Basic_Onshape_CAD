@@ -145,3 +145,36 @@ I made an axle, collar, and two bearings using simple sketches and extrusions.
 When making this I didn't use a syrmetrical extrusion, which came back to bite me when I had to mirror the (remove)extrusion. all theat has to be done to avoid this is to click blind then change it to syrmetric 
 
 ---
+
+## Assembly
+
+### Discription
+
+I put all of the parts together in a assembly using fastened and revolution mates, then I added hardware(nuts, bolts, and pins) 
+
+### Evidence
+
+[The AxleCollarBearings in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
+
+
+### Image
+
+<img src="https://github.com/llemarr42/Basic_Onshape_CAD/blob/main/caster%20assembly.png?raw=true" width="400"> 
+
+### Reflection
+
+I learned how to use the hardware. go to insert then standard content, after that choose what you want and make sure you use the right measurments. When inserting it is easier in my oppinion to click on the place you want to insert the part to before clicking insert so bolt or nut just appears there.
+
+---
+
+## Dowel Pins
+
+### Dicription
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
