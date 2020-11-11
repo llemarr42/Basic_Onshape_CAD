@@ -154,7 +154,7 @@ I put all of the parts together in a assembly using fastened and revolution mate
 
 ### Evidence
 
-[The AxleCollarBearings in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
+[The Assembly in onshape](https://cvilleschools.onshape.com/documents/1470d4c96309c2a30707a08c/w/c46ce13c4a59cb041a3ad225/e/598cd8e1d9c237cf02a5c93f)
 
 
 ### Image
@@ -171,10 +171,18 @@ I learned how to use the hardware. go to insert then standard content, after tha
 
 ### Dicription
 
+I made 32 dowel pins for the price of one by using configurations to change sizes and the chamfer with the press of a button.
+
 ### Evidence
+
+[The Dowel Pins in onshape](https://cvilleschools.onshape.com/documents/f9aa56635131013a2cfd5d57/w/d74c981b59888165633843bd/e/9fb56780afcad2420b188653?configuration=List_CdPBBteBHgZxTb%3DDefault%3BList_ETgbVtkbqhYZJM%3D_1_4_inch%3BList_cgWTQovWptgkd4%3DDefault)
 
 ### Image
 
+<img src="https://github.com/llemarr42/Basic_Onshape_CAD/blob/main/dowel%20pins.png?raw=true" width="400">
+
 ### Reflection
+
+Configurations is located on the right side and by changing it to list, you can first name the different measurments then by clicking + Configure features you can click the measurment that you want, after that just use the second row to put in the new measurments. 
 
 ---
